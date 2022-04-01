@@ -1,0 +1,2 @@
+
+Show action in the controller is scaffolded with nothing - just "def show end". Is this action incomplete? Which part of the scaffolding allows for a user to look at a single entry from the database?
